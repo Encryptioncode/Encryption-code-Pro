@@ -9,3 +9,5 @@
   - Multiple accounts on one device
   - Choose Theme
   - More memory storage
+## Price
+  - Probably around $1.99/ month
