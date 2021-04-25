@@ -10,4 +10,6 @@
   - Choose Theme
   - More memory storage
 ## Price
-  - Probably around $1.99/ month
+  - Probably around $1.99/month each
+## Release date
+  - Not yet decided, estimated mid summer 2021
