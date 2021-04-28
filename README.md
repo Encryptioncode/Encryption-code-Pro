@@ -14,4 +14,5 @@
 ## Price
   - Probably around $1.99/month each
 ## Release date
-  - Not yet decided, estimated mid summer 2021
+  - Will be released once it is fully developed and tested
+  - Estimated to be released mid summer 2021
