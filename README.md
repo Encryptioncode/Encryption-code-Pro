@@ -10,6 +10,7 @@
   - Choose Theme
   - More memory storage
   - Access to our pro user and developer forum
+  - Two factor authentication (Encryption code Server will send a one time passcode to the user's registered email address)
 ## Price
   - Probably around $1.99/month each
 ## Release date
