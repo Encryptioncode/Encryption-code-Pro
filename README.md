@@ -1,5 +1,5 @@
 # Encryption-code-Pro
-- Encryption code Pro is  the primuim paid version of Encryption code
+- Encryption code Pro is  the premium paid version of Encryption code
 - Website: https://sites.google.com/view/encryptioncode/encryption-code-pro
 ## Encryption code Pro features
   - Encrypt and Decrypt multiple paragraphs at a time
